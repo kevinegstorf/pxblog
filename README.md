@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/kevinegstorf/pxblog.svg?branch=master)](https://travis-ci.org/kevinegstorf/pxblog)
 # Pxblog
 
 To start your Phoenix app:
